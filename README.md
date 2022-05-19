@@ -1,1 +1,1 @@
-# stem-training
+# inspire-in-STEM
