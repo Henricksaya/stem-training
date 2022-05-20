@@ -1,5 +1,5 @@
 # inspire-in-STEM
-##Day1
+#Day1
 learning markdown
 installing python
 ##day 2
