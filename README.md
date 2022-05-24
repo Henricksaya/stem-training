@@ -14,12 +14,12 @@ else elif
 while loops
 break continue
 for loops
-##Day 5
+## Day 5
 lists
   indexes
   string as list or not
   nerted lists (matrixes)
-##Day 6
+## Day 6
 lists
 tuples
 sets
