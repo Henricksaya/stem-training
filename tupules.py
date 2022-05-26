@@ -2,7 +2,8 @@
 
 #list= []  can add and remove its contents(manipulatable content)
 #tuples=()   same as list but can't manpulate  its contents
-#set= {}   
+#set= {}   sets are alws mixed up index given to characters always change the 1st character
+          # is not neccesarily  index 0
 
 #tuples and lists  allow redunduncy, sets don't
 
