@@ -32,3 +32,7 @@ funcctions def
  return
  dictioneries
  ## Day 9
+ defining class
+ creating objects of a class
+ class methods
+ 
