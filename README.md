@@ -36,3 +36,6 @@ funcctions def
  creating objects of a class
  class methods
  
+ ## Day 10 
+ GUI
+ 
