@@ -40,7 +40,7 @@ funcctions def
  GUI
  widgets
  buttons
- ## day 11
- # simple canvas
- # inventories
+ ## Day 11
+ ### simple canvas
+ ### inventories
  
