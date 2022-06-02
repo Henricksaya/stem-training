@@ -41,6 +41,6 @@ funcctions def
  widgets
  buttons
  ## Day 11
- ### simple canvas
- ### inventories
+ ### -simple canvas
+ ### -inventories
  
