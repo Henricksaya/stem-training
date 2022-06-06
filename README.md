@@ -45,5 +45,5 @@ funcctions def
  ### -inventories
  
  ## Day 12
- ###game dev with python
+ ### Game dev with python
  
