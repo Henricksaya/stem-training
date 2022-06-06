@@ -1,49 +1,53 @@
-# inspire-in-STEM
+# Inspire-in-STEM
 ## Day 1
-Learning markdown
-installing python
+#### -Learning markdown
+#### -installing python
 ## Day 2
-Manipulation of data
-building a simple calculator
+#### -Manipulation of data
+#### -building a simple calculator
 ## Day 3
-Building a comlex calculator
+#### -Building a comlex calculator
 ## Day 4
-Control flow
-if statemenets
-else elif
-while loops
-break continue
-for loops
+#### -Control flow
+#### -if statemenets
+#### -else elif
+#### -while loops
+#### -break continue
+#### -for loops
 ## Day 5
-lists
-  indexes
-  string as list or not
-  nerted lists (matrixes)
+  #### -lists
+  #### -indexes
+  #### -string as list or not
+  #### -nerted lists (matrixes)
 ## Day 6
-lists
-tuples
-sets
-dictioneries
+#### -lists
+#### -tuples
+#### -sets
+#### -dictioneries
 
 ## Day 7
-functions
+#### -functions
 ## Day 8
-funcctions def
- return
- dictioneries
+ #### -funcctions def
+ #### -return
+ #### -dictioneries
  ## Day 9
- defining class
- creating objects of a class
- class methods
+ #### -defining class
+ #### -creating objects of a class
+ #### -class methods
  
  ## Day 10 
- GUI
+ ### -GUI
  #### -widgets
  #### -buttons
  ## Day 11
- ### -simple canvas
- ### -inventories
+ #### -simple canvas
+ #### -inventories
  
  ## Day 12
- ### -Game dev with python
+ ### Text fields
+ #### -Getting text
+ 
+ ## Day 13
+ ##### -Game dev with python
  
