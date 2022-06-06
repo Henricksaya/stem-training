@@ -38,8 +38,8 @@ funcctions def
  
  ## Day 10 
  GUI
- # -widgets
- # -buttons
+ #### -widgets
+ #### -buttons
  ## Day 11
  ### -simple canvas
  ### -inventories
