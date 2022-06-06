@@ -38,12 +38,12 @@ funcctions def
  
  ## Day 10 
  GUI
- widgets
- buttons
+ # -widgets
+ # -buttons
  ## Day 11
  ### -simple canvas
  ### -inventories
  
  ## Day 12
- ### Game dev with python
+ ### -Game dev with python
  
