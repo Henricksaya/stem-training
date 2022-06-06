@@ -47,6 +47,7 @@
  ## Day 12
  ### Text fields
  #### -Getting text
+ #### -Project: making a calc
  
  ## Day 13
  ##### -Game dev with python
