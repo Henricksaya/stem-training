@@ -52,3 +52,14 @@
  ## Day 13
  ##### -Game dev with python
  
+ ## Day 14
+ #### -function tasks
+ 
+ 
+ ## Day 15
+ ### Intro to robotics
+ #### -IOT
+ #### -Microprocessors
+ #### -Micro controllers
+ #### -Hardware dev
+ #### -Low level programming
